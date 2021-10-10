@@ -80,6 +80,9 @@ install:
       - 271740
       - 428199
       - 431430
+      - 240630
+      - 532127
+      - 499826
 
   # The base path where the server should be installed to, ~ for current path
   baseInstallPath: ~
